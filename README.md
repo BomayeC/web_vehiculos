@@ -15,8 +15,6 @@ Este proyecto proporciona una aplicación web interactiva para la visualización
 - **Selección de columnas**: Permite a los usuarios seleccionar qué columnas mostrar en la tabla de datos.
 - **Expansores de gráficos**: Los gráficos se pueden expandir o contraer para facilitar la navegación.
 
-## Instalación
-
-1. LINK DE LA PAGINA EN RENDER
+## LINK DE LA PAGINA EN RENDER
 
   [WEB_VEHICULOS](https://web-vehiculos.onrender.com)  
